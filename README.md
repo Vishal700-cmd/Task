@@ -1,6 +1,7 @@
-# Task
+# DevOps_Work
 
-## Assignmet:
+## Work Description ::
+### In this work I created one system in which there are two environments created using docker. One for     testing and one for production. Both are controlled by jenkins. Now in our local git system we are     using one branch for testing called "dev". Our master branch is connected with Production               environment. And dev branch is connected with Testing environment. Here we have only two manual         works:
 ## Pre-requisite :
 - OS: Base OS is Linux Mint. Server OS is RedHat Enterprise Linux 8 (RHEL8) in Virtual Box.
 - In RHEL8 some of the softwares needed are Docker (also need the httpd image downloaded in it),        - Jenkins (also github plugin should be installed in it).
