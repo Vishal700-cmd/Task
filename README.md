@@ -1,6 +1,11 @@
 # Task
 
 ## Assignmet:
+## Pre-requisite :
+- OS: Base OS is Linux Mint. Server OS is RedHat Enterprise Linux 8 (RHEL8) in Virtual Box.
+- In RHEL8 some of the softwares needed are Docker (also need the httpd image downloaded in it),        - Jenkins (also github plugin should be installed in it).
+- In Linux Mint we need git bash software.
+- At the starting stop the firewalld in RHEL8 and start the docker and jenkins services
 
 ### GIT BASH :-
 
